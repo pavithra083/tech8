@@ -1,0 +1,44 @@
+.container{
+  display:flex;
+  justify-content: center;
+  align-content: center;
+  background-color: white;
+
+  height: 100vh;
+  flex-direction: column;
+}
+h1{
+  color:black;
+  font-family: Algerian;
+  margin: 30px;
+  text-align: center;
+}
+.f1
+{                                                                                         
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 40%;
+
+  background-color:lightblue;
+  font-family: Times New Roman;
+  
+  margin-left:400px ;
+  height: 50vh;
+}
+.button
+{
+  width: 80%;
+  background-color: grey;
+  text-align: center;
+  width: 100px;
+
+ }
+.button:hover
+{
+  background:blue;
+  color:white;
+  border: gold 3px solid;
+
+}
